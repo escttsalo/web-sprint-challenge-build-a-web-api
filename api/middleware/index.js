@@ -13,5 +13,5 @@ function notFound(req, res) {
 
   module.exports = {
       notFound,
-      errorHandling,
+      errorHandling
   }
